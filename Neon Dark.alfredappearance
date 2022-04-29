@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 14,
+        "colorSelected" : "#212121FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#A9A9A9FF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#919191FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#A9A9A9FF"
+      },
+      "backgroundSelected" : "#00FCFFE4",
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#FFFFFFFF"
+      },
+      "iconPaddingHorizontal" : 8,
+      "roundness" : 12,
+      "paddingVertical" : 8,
+      "iconSize" : 50
+    },
+    "search" : {
+      "backgroundSelected" : "#00FCFFE6",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue",
+        "color" : "#FFFFFFFF"
+      },
+      "background" : "#00000000",
+      "roundness" : 0,
+      "paddingVertical" : 4
+    },
+    "window" : {
+      "color" : "#00000054",
+      "paddingHorizontal" : 10,
+      "width" : 800,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 10
+    },
+    "credit" : "divarre",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#FEFFFF54",
+      "thickness" : 2
+    },
+    "name" : "Neon Dark"
+  }
+}
