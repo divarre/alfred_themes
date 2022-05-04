@@ -10,7 +10,7 @@
       },
       "shortcut" : {
         "size" : 16,
-        "colorSelected" : "#919191FF",
+        "colorSelected" : "#000000FF",
         "font" : "Helvetica Neue Light",
         "color" : "#A9A9A9FF"
       },
