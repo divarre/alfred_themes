@@ -1,14 +1,21 @@
 # Alfred themes
 
-Hi there, here are some themes I created for [Alfred](https://www.alfredapp.com/). Note that they require the [Alfred Powerpack](https://www.alfredapp.com/powerpack/). I hope you like them.
+Hi there, here's a collection of themes that I created for [Alfred](https://www.alfredapp.com/). Note that they require the [Alfred Powerpack](https://www.alfredapp.com/powerpack/). I hope you like them.
 
+* [Solarized Dark](#solarized-dark)
 * [Neon Carnation](#neon-carnation)
 * [Neon Dark](#neon-dark)
 * [A Scanner Darkly](#a-scanner-darkly)
 
+## Solarized Dark
+
+![Solarized Dark](solarized_dark.png "Screenshot of the ‘Solarized Dark’ theme")
+
+Download and open [Solarized Dark.alfredappearance](Solarized%20Dark.alfredappearance) or install from [alfredapp.com](https://www.alfredapp.com/extras/theme/TrgrElrig2/)
+
 ## Neon Carnation
 
-![Neon Carnation](neon_carnation.png "Screenshot of the Neon ‘Carnation’ theme")
+![Neon Carnation](neon_carnation.png "Screenshot of the ‘Neon Carnation’ theme")
 
 Download and open [Neon Carnation.alfredappearance](Neon%20Carnation.alfredappearance) or install from [alfredapp.com](https://www.alfredapp.com/extras/theme/SGlWMXaDkb/)
 
