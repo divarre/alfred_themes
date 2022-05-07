@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 14,
+        "colorSelected" : "#CB4B16FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#2AA198FF"
+      },
+      "shortcut" : {
+        "size" : 17,
+        "colorSelected" : "#DC322FFF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#268BD2FF"
+      },
+      "backgroundSelected" : "#0000003F",
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#B58900FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#93A1A1FF"
+      },
+      "iconPaddingHorizontal" : 8,
+      "roundness" : 12,
+      "paddingVertical" : 8,
+      "iconSize" : 50
+    },
+    "search" : {
+      "backgroundSelected" : "#93A1A1FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#002B36FF",
+        "font" : "Helvetica Neue",
+        "color" : "#93A1A1FF"
+      },
+      "background" : "#00000000",
+      "roundness" : 0,
+      "paddingVertical" : 4
+    },
+    "window" : {
+      "color" : "#002B36A9",
+      "paddingHorizontal" : 10,
+      "width" : 800,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 10
+    },
+    "credit" : "divarre",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#002B3600",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#B58900FF",
+      "thickness" : 2
+    },
+    "name" : "Solarized Dark"
+  }
+}
